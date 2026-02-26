@@ -1,52 +1,57 @@
-# 👋 Hi, I'm Sarika Parmar  
+<h1 align="center">Hi 👋, I'm Sarika Parmar</h1>
+<h3 align="center">AI Engineer in Progress | Integrated M.Tech (Artificial Intelligence)</h3>
 
-🎓 Integrated M.Tech (Artificial Intelligence) @ VIT Bhopal  
-🚀 Building AI-driven systems that solve real-world problems  
-🧠 Focused on scalable, intelligent, and impactful solutions  
-
----
-
-## 🚀 About Me
-
-- 🤖 Specializing in Artificial Intelligence & Machine Learning  
-- 🌐 Exploring Full-Stack Development  
-- 🧩 Strong foundation in DSA, DBMS & System Design  
-- 🏆 Active participant in hackathons & tech events  
-- 📚 Committed to disciplined, continuous improvement  
+<p align="center">
+  Building intelligent systems that solve real-world problems.
+</p>
 
 ---
 
-## 🧠 Tech Stack  
+## 🚀 Who I Am
 
-### 💻 Languages  
-`Python` · `Java` · `C` · `SQL`  
-
-### 🤖 AI / ML  
-Machine Learning · Data Preprocessing · Model Building · Intelligent Systems  
-
-### 🌐 Development  
-`HTML` · `CSS` · `JavaScript` · `React` · `Redux` · `MongoDB`  
-
-### ⚙️ Tools  
-`Git` · `GitHub` · `VS Code` · `Jupyter` · `Firebase`  
+- 🎓 Integrated M.Tech (AI) student at VIT Bhopal  
+- 🤖 Focused on Artificial Intelligence & Machine Learning  
+- 🌐 Building full-stack applications powered by intelligent systems  
+- 🧠 Strong in DSA, DBMS, and core computer science fundamentals  
+- ⚡ Bias toward execution — I prefer building over just learning  
 
 ---
 
-## 🛠 What I Like Building
+## 🧠 Technical Arsenal
+
+### 💻 Languages
+`Python` • `Java` • `C` • `SQL`
+
+### 🤖 AI & Machine Learning
+- Machine Learning Model Development  
+- Data Preprocessing & Feature Engineering  
+- Model Evaluation & Optimization  
+- Intelligent System Design  
+
+### 🌐 Development
+`HTML` • `CSS` • `JavaScript` • `React` • `Redux` • `MongoDB`
+
+### ⚙️ Tools & Platforms
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `Firebase`
+
+---
+
+## 🛠 What I Build
 
 - AI-powered applications  
-- Machine Learning models with measurable performance  
-- Clean, responsive web applications  
-- Automation & problem-solving systems  
-- Real-world impact-driven projects  
+- Machine learning models with measurable performance  
+- Clean, scalable web applications  
+- Automation systems  
+- Projects focused on real-world impact  
 
 ---
 
-## 📈 Current Focus
+## 📈 Current Mission
 
-- Strengthening Data Structures & Algorithms  
+- Mastering Data Structures & Algorithms  
 - Building production-ready AI systems  
-- Improving system design and scalability thinking  
+- Strengthening system design thinking  
+- Shipping meaningful projects consistently  
 
 ---
 
@@ -58,6 +63,8 @@ Machine Learning · Data Preprocessing · Model Building · Intelligent Systems
 
 ---
 
-## ✨ Philosophy  
+## ✨ Philosophy
 
-> *Learn consistently. Build confidently. Grow continuously.*
+> Learn with discipline.  
+> Build with confidence.  
+> Grow with consistency.
