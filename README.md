@@ -1,54 +1,63 @@
-👋 Hi, I’m Sarika Parmar
+# 👋 Hi, I'm Sarika Parmar  
 
-🎓 Integrated M.Tech (AI) Student at VIT Bhopal
-🤖 Passionate about Artificial Intelligence & Machine Learning
-🚀 Focused on building real-world, impactful solutions
+🎓 Integrated M.Tech (Artificial Intelligence) @ VIT Bhopal  
+🚀 Building AI-driven systems that solve real-world problems  
+🧠 Focused on scalable, intelligent, and impactful solutions  
 
-🚀 About Me
+---
 
-🎓 Specializing in Artificial Intelligence
+## 🚀 About Me
 
-🤖 Interested in AI, ML & Intelligent Systems
+- 🤖 Specializing in Artificial Intelligence & Machine Learning  
+- 🌐 Exploring Full-Stack Development  
+- 🧩 Strong foundation in DSA, DBMS & System Design  
+- 🏆 Active participant in hackathons & tech events  
+- 📚 Committed to disciplined, continuous improvement  
 
-🌐 Exploring Full-Stack Development
+---
 
-🧠 Strong foundation in Python, Java, SQL, DSA & DBMS
+## 🧠 Tech Stack  
 
-🏆 Actively participate in hackathons & tech events
+### 💻 Languages  
+`Python` · `Java` · `C` · `SQL`  
 
-📚 Committed to continuous self-improvement
+### 🤖 AI / ML  
+Machine Learning · Data Preprocessing · Model Building · Intelligent Systems  
 
-🛠️ Tech Stack
-💻 Languages
+### 🌐 Development  
+`HTML` · `CSS` · `JavaScript` · `React` · `Redux` · `MongoDB`  
 
-Python · Java · C · SQL
+### ⚙️ Tools  
+`Git` · `GitHub` · `VS Code` · `Jupyter` · `Firebase`  
 
-🌐 Development
+---
 
-HTML · CSS · JavaScript · React · Redux · MongoDB
+## 🛠 What I Like Building
 
-⚙️ Tools
+- AI-powered applications  
+- Machine Learning models with measurable performance  
+- Clean, responsive web applications  
+- Automation & problem-solving systems  
+- Real-world impact-driven projects  
 
-Git · GitHub · VS Code · Jupyter · Firebase
+---
 
-📌 What I Like Building
+## 📈 Current Focus
 
-AI-powered applications
+- Strengthening Data Structures & Algorithms  
+- Building production-ready AI systems  
+- Improving system design and scalability thinking  
 
-Machine Learning models
+---
 
-Clean and interactive web apps
+## 📫 Connect With Me
 
-Automation & problem-solving systems
+📧 **Email:** sarikaparmar1324@vitbhopal.ac.in  
+🔗 **LinkedIn:** https://www.linkedin.com/in/sarika-parmar-728790296  
+🐙 **GitHub:** https://github.com/SarikaParmar868  
 
-Projects with real-world impact
+---
 
-📫 Connect With Me
+## ✨ Philosophy  
 
-📧 Your Email - sarikaparmar1324@vitbhopal.ac.in
-🔗 Your LinkedIn - www.linkedin.com/in/sarika-parmar-728790296
-🐙 Your GitHub - https://github.com/SarikaParmar868
-
-✨ Philosophy
-
-“Learn consistently. Build confidently. Grow continuously.”
+> *Learn consistently. Build confidently. Grow continuously.*
